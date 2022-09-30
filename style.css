@@ -10,11 +10,9 @@ body {
 
 h1{
 	text-align: center;
-	font-family:   <link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,200&family=Oswald&display=swap" rel="stylesheet">;
+	font-size: 56px;
+	color: antiquewhite;
 
-font-size: 50px;
 
 }
 
@@ -22,5 +20,6 @@ font-size: 50px;
 p{
 	text-align: center;
 	font-size: 27px;
+	color: bisque;
 
 }
